@@ -8,6 +8,7 @@
         "semaphore": "cpp",
         "valarray": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "numbers": "cpp"
     }
 }
