@@ -1,0 +1,1 @@
+{"name":"Local: A_Little_Nikita","url":"/home/tasfiq/XPSC/week6/Day3/A_Little_Nikita.cpp","tests":[{"id":1733233849573,"input":"3\n3 3\n2 4\n5 3\n","output":"Yes\nNo\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tasfiq/XPSC/week6/Day3/A_Little_Nikita.cpp","group":"local","local":true}
