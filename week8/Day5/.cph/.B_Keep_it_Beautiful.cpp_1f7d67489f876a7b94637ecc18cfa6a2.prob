@@ -1,0 +1,1 @@
+{"name":"Local: B_Keep_it_Beautiful","url":"/home/tasfiq/XPSC/week8/Day5/B_Keep_it_Beautiful.cpp","tests":[{"id":1734627694318,"input":"3\n9\n3 7 7 9 2 4 6 3 4\n5\n1 1 1 1 1\n5\n3 2 1 2 3\n","output":"111110010\n11111\n11011\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tasfiq/XPSC/week8/Day5/B_Keep_it_Beautiful.cpp","group":"local","local":true}
