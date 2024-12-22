@@ -1,0 +1,1 @@
+{"name":"Local: B_Paint_a_Strip","url":"/home/tasfiq/XPSC/Week9/Day1/B_Paint_a_Strip.cpp","tests":[{"id":1734886445153,"input":"4\n1\n2\n4\n20\n","output":"1\n2\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tasfiq/XPSC/Week9/Day1/B_Paint_a_Strip.cpp","group":"local","local":true}
