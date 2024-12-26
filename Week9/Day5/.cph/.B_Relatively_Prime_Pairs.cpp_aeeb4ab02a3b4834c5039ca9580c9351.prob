@@ -1,0 +1,1 @@
+{"name":"Local: B_Relatively_Prime_Pairs","url":"/home/tasfiq/XPSC/Week9/Day5/B_Relatively_Prime_Pairs.cpp","tests":[{"id":1735229144448,"input":"1 8\n","output":"YES\n2 7\n4 1\n3 8\n6 5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tasfiq/XPSC/Week9/Day5/B_Relatively_Prime_Pairs.cpp","group":"local","local":true}

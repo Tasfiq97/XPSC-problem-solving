@@ -1,0 +1,1 @@
+{"name":"Local: A_Maximum_GCD","url":"/home/tasfiq/XPSC/Week9/Day5/A_Maximum_GCD.cpp","tests":[{"id":1735231353581,"input":"2\n3\n5\n","output":"1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tasfiq/XPSC/Week9/Day5/A_Maximum_GCD.cpp","group":"local","local":true}
